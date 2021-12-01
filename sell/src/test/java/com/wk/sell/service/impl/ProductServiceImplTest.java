@@ -1,4 +1,4 @@
-package com.wk.sell.impl;
+package com.wk.sell.service.impl;
 
 import com.wk.sell.dataobject.ProductInfo;
 import com.wk.sell.enums.ProductStatusEnum;
@@ -13,8 +13,6 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 import java.math.BigDecimal;
 import java.util.List;
-
-import static org.junit.Assert.*;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest

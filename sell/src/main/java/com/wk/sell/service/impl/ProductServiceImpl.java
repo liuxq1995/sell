@@ -1,4 +1,4 @@
-package com.wk.sell.impl;
+package com.wk.sell.service.impl;
 
 import com.wk.sell.dataobject.ProductInfo;
 import com.wk.sell.enums.ProductStatusEnum;
