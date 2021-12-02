@@ -16,6 +16,29 @@
 *.iml
 *.ipr
 
+### sub-gitignore ###
+*.gitignore
+
+### log files ###
+*.log
+
+### package files ###
+*.tar.gz
+*.zip
+*.war
+*.ear
+*.rar
+
+### temp ignore ###
+*.cache
+*.diff
+*.patch
+*.tmp
+*.scannerwork
+
+### vim ###
+*.swp
+
 ### NetBeans ###
 /nbproject/private/
 /build/
